@@ -1,2 +1,2 @@
 # DBA
-A Dynamic Block Activation Framework for Continuum Models
+A dynamic block activation (DBA) framework for continuum models
