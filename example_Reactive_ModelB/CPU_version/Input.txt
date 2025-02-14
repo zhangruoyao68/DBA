@@ -1,0 +1,27 @@
+256 256 256                    Nx Ny Nz
+
+50000 5000 0.0005			 t_total, t_freq, dt # dt = 0.001 for 2D
+
+1 1 1		                dx, dy, dz
+
+0 0 0 0 0 4                 chi_xy chi_xz chi_yz chi_xb chi_yb chi_zb
+
+1 1 2                     vx vy vz
+
+1 1 2                     rx ry rz
+
+1 1                         n m
+
+4 4 4 0.01                  epsilonx_sq epsilony_sq epsilonz_sq epsilonphi_sq
+
+1 1 1 1                     Mobility_x Mobility_y Mobility_z Mobility_phi
+
+0.2 0.2 0.01                x0 y0 z0
+
+100 0.4 1                   K z_crit p (K=Equilibrium const.)
+
+1                         k_0 (reaction rate)
+
+1e-6 Metric_eps # smaller than 1e-4 for abs(lap),
+
+1							 Mode of computing (0 for regular while 1 for wake-up mode)

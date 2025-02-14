@@ -1,0 +1,9 @@
+512 512 512                 Nx, Ny, Nz
+
+100 200 0.00005			 t_total, t_freq, dt
+
+0.02 0.02 0.02				 dx, dy, dz
+
+0.5 0.0003 0.01 0.9 40.      delta, tau, epsilon, alpha, gamma
+
+0.25						 Delta

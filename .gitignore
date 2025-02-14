@@ -4,3 +4,14 @@
 *.ptx
 *.cubin
 *.fatbin
+
+#Data files
+*.dat
+*.vtk
+*.ncu-rep
+*.out
+*.sln
+*.vcxproj*
+*.csv
+*.vtr
+*.pvtr

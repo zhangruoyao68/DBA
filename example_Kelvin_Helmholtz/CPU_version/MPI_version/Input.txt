@@ -1,0 +1,7 @@
+8192 8192 1                    Nx Ny Nz
+
+20000 1000 0.0002			 t_total, t_freq, dt
+
+0.002 0.002 0.002		     dx, dy, dz
+
+2                               Output mode, 0 for no output, 1 for realtime calc only, 2 for all output

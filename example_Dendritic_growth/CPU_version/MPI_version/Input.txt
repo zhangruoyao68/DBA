@@ -1,0 +1,11 @@
+512 512 512                 Nx, Ny, Nz
+
+20000 1000 0.00005			 t_total, t_freq, dt
+
+0.02 0.02 0.02				 dx, dy, dz
+
+0.5 0.0003 0.01 0.9 40.      delta, tau, epsilon, alpha, gamma
+
+0.25						 Delta
+
+2				Output mode, 0 for no output, 1 for realtime calc only, 2 for all output 

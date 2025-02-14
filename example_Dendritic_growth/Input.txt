@@ -1,0 +1,15 @@
+256 256 256                  Nx, Ny, Nz
+
+20000 1000 0.00005			 t_total, t_freq, dt
+
+0.02 0.02 0.02				 dx, dy, dz
+
+0.5 0.0003 0.01 0.9 40.      delta, tau, epsilon, alpha, gamma
+
+0.25						 Delta
+
+1							 Mode of computing (0 for regular while 1 for wake-up mode)
+
+0.01                        Metric_p
+
+1e-5 Metric_T

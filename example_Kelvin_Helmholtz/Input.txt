@@ -1,0 +1,9 @@
+512 512 1                    Nx Ny Nz
+
+20000 2000 0.0002			 t_total, t_freq, dt
+
+0.002 0.002 0.002		     dx, dy, dz
+
+1							 Mode of computing (0 for regular while 1 for wake-up mode)
+
+0 Metric_eps
