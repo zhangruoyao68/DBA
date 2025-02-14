@@ -1,6 +1,8 @@
 # DBA
 A dynamic block activation (DBA) framework for continuum models
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14868458.svg)](https://doi.org/10.5281/zenodo.14868458)
+
 ## System requirements
 This code requires CUDA and a Linux operating system to be executed. The multi-CPU and multi-GPU version requires MPI library installed.
 
