@@ -41,8 +41,9 @@ chmod +x run.sh
 
 The installation or compilation should be completed immediately, and the execution time will depend on the user's input file.
 
-## Demo
-A demo is provided in the Example_1_Dendritic_growth/Demo folder. This demo provides a standard input file to generate a small system of 3D dendritic growth with output files in .vtk format. The expected run time depends on the hardware system (especially GPU performance). Typically, it should be completed within 5 minutes on a laptop computer with an NVIDIA 4070 GPU.
-
 ## Instruction for use
 All the data we provided in the manuscript can be reproduced by this code. Users can modify the input file accordingly and run the code following the installation guide to obtain the data in .vtk format. To visualize the .vtk output data, ParaView is recommended.
+
+## License
+
+This project is licensed under the GNU General Public License v3 - see the [LICENSE](https://www.gnu.org/licenses/) for details.
