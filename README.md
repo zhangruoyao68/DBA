@@ -8,11 +8,11 @@ A dynamic block activation (DBA) framework for continuum models on GPUs
 ## Structure of the current repository
 All code for 3 example models used in the manuscript are included and organized as follows:
 
-- example_MODEL: single GPU version with DBA framework of the MODEL
-- example_MODEL/CUDA-MPI: multi-GPU version with DBA framework of the MODEL
-- example_MODEL/CPU_version: serial CPU version with regular mode only of the MODEL
-- example_MODEL/CPU_version/MPI_version: multi-CPU version with regular mode only of the MODEL
-- example_MODEL/Conserved: single GPU version with conserved DBA framework of the MODEL
+- example_MODEL: single GPU version with DBA
+- example_MODEL/CUDA-MPI: multi-GPU version with DBA
+- example_MODEL/CPU_version: serial CPU version with regular mode only
+- example_MODEL/CPU_version/MPI_version: multi-CPU version with regular mode only
+- example_MODEL/Conserved: single GPU version with conserved DBA
 
 ## System and library requirements
 This code requires CUDA and a Linux operating system to be executed.
