@@ -50,6 +50,7 @@ If you use the code in this repository, please cite the following article:
   title = {A dynamic block activation framework for continuum models},
   journal = {Nature Computational Science},
   year = {2025},
+  doi = {10.1038/s43588-025-00780-2}
 }
 ```
 
