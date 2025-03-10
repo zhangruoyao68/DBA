@@ -39,7 +39,20 @@ chmod +x run.sh
 
 The installation or compilation should be completed immediately, and the execution time will depend on the user's input file.
 
-## Instruction for use
+
+## Citations
+
+If you use the code in this repository, please cite the following article:
+
+```
+@article{Zhang_DBA_2025,
+  author = {Ruoyao Zhang and Yang Xia},
+  title = {A dynamic block activation framework for continuum models},
+  journal = {Nature Computational Science},
+  year = {2025},
+}
+```
+
 All the data we provided in the manuscript can be reproduced by this code. Users can modify the input file accordingly and run the code following the installation guide to obtain the data in .vtk format. To visualize the .vtk output data, ParaView is recommended.
 
 ## License
